@@ -1,0 +1,71 @@
+input:focus{
+    box-shadow: none !important;
+    background-color: white !important;
+}
+input{
+    margin-bottom: 15px !important;
+    background-color: white !important;
+
+}
+#correct{
+    color: rgb(196, 8, 8);
+}
+#correct1{
+    color: rgb(196, 8, 8);
+}
+button:focus:hover{
+    box-shadow: none !important;
+}
+.username{
+    text-align: right;
+}
+#nav{
+    
+    /* background-color: rgb(204, 197, 197) !important; */
+    display: none ;
+    z-index: 9999999999999999999 !important;
+}
+.nav2{
+    z-index: 9999999999999999999 !important;
+}
+#whole{
+    z-index: 9999999999 !important;
+    position: fixed !important; 
+    
+}
+#staticBackdrop{
+    z-index: 9999999999999999999 !important;
+    border: 5px solid black !important;
+    
+}
+input{
+    
+    z-index: 999999999999999999999999 !important;
+}
+label{
+    background-color: transparent !important;
+    z-index: 99 !important;
+}
+*{
+    background-color: white !important;
+    
+}
+#BTN{
+    background-color: gray !important;
+}
+#BTN2{
+    background-color: black !important;
+}
+.modal-thing{
+    /* border-radius: 10% !important; */
+    border: 5px solid black !important;
+    /* height: 100vh !important; */
+
+}
+#firstName{
+    background-color: white !important;
+}
+#lastName{
+    background-color: white !important;
+}
+
